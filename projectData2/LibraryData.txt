@@ -1,0 +1,12 @@
+
+Name: AMIRAH
+Student ID: SD1234
+
+BOOK TITLE          BORROW DATE         RETURN DATE
+        
+   PROGRAM                   12.2.2021                13.2.2021           
+
+   MASAKAN                   12.2.2021                13.2.2021           
+
+   FASHION                   12.2.2021                13.2.2021           
+
